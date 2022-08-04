@@ -1,1 +1,1 @@
-﻿ Console.WriteLine("Кот прогер");
+﻿string username = Console.ReadLine();
